@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is  Shapla Rani
 #### I am a frontend developer from Bangladesh
-![I am a frontend developer from Bangladesh](https://i.ibb.co/gVD3WYf/github-banner.jpg)
+![gitB](https://github.com/ShaplaRani/ShaplaRani/assets/138357040/d98e939c-1bea-423d-b31a-fcefe2bfd5b5)
 
  I'm a passionate frontend web developer with a love for creating interactive and user-friendly web applications. My journey in the world of web development began [mention any significant milestones or experiences
 
