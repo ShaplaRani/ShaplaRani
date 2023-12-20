@@ -12,10 +12,7 @@ Skills: REACT/Tailwind / JS / HTML / CSS
 - 💬 Ask me about react,tailwind,js,es6, mongoDb  
 - ⚡ Fun fact:  I love to make complex origami
 
-  <h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
