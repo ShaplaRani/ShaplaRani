@@ -4,7 +4,7 @@
 
  I'm a passionate frontend web developer with a love for creating interactive and user-friendly web applications. My journey in the world of web development began [mention any significant milestones or experiences
 
-Skills: REACT/Tailwind / JS / HTML / CSS
+Skills: React/node/Tailwind / JS / HTML / CSS
 
 - 🔭 I’m currently working on Upwork 
 - 🌱 I’m currently learning Full-stack web developer 
