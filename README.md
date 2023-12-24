@@ -11,6 +11,7 @@ Skills: React/node/Tailwind / JS / HTML / CSS
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about react,tailwind,js,es6, mongoDb  
 - ⚡ Fun fact:  I love to make complex origami
+ - 💬 Email:shaplarani621@gmail.com
 
 
 </p>
